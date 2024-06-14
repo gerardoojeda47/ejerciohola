@@ -1,3 +1,2 @@
-# ejercici
-ohola
+# ejerciciohola
 ejercicio de proyecto inicial
